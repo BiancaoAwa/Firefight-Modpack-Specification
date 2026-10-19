@@ -1,0 +1,2 @@
+# Text files use LF endings on every platform.
+* text=auto eol=lf
